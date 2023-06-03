@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200706/pngtree-minimalist-happy-birthday-background-image_350694.jpg");
+    background-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    border-radius: 40%;
+    height: 270px;
+    width: 530px;
+    border-style: dotted;
+    border-color: blue;
+}

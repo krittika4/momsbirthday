@@ -1,0 +1,25 @@
+#photo{
+    height:420px;
+    width: 200px;
+    border-radius: 2%;
+    border-width: 10px;
+    border-style:dotted;
+    border-color: aqua;
+}
+
+#photos{
+    height:220px;
+    width: 300px; 
+    border-radius: 2%;
+    border-width: 10px;
+    border-style:dotted;
+    border-color: aqua;
+}
+
+h2{
+    border-width: 10px;
+    border-style:dotted;
+    border-color: yellow;
+    border-radius: 2%;
+}
+
